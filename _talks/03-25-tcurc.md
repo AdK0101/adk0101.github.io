@@ -1,7 +1,7 @@
 ---
 title: "Endemicity and Eradication of Diseases in the Presence of Vaccination and Reinfection in a SEIRV Model"
 collection: talks
-type: "Contributed Talk"
+type: "contributed_talk"
 permalink: /talks/03-25-tcurc.md
 venue: "Trinity College Undergraduate Research Conference (TCURC) 2025"
 date: 2025-03-15
