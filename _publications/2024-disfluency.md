@@ -1,7 +1,7 @@
 ---
 title: "Toward A Reinforcement-Learning-Based System for Adjusting Medication to Minimize Speech Disfluency"
 collection: publications
-category: conferences
+category: workshops
 permalink: /publication/2024-disfluency
 excerpt: 'We propose a reinforcement learning (RL)-based system that would automatically prescribe a hypothetical patient medication that may help the patient with their mental health-related speech disfluency, and adjust the medication and the dosages in response to zero-cost frequent measurement of the fluency of the patient. We demonstrate the components of the system: a module that detects and evaluates speech disfluency on a large dataset we built, and an RL algorithm that automatically finds good combinations of medications. To support the two modules, we collect data on the effect of psychiatric medications for speech disfluency from the literature, and build a plausible patient simulation system. We demonstrate that the RL system is, under some circumstances, able to converge to a good medication regime. We collect and label a dataset of people with possible speech disfluency and demonstrate our methods using that dataset. Our work is a proof of concept: we show that there is promise in the idea of using automatic data collection to address speech disfluency.'
 date: 2024-03-14
