@@ -1,7 +1,7 @@
 ---
 title: "URIEL+: Enhancing Linguistic Inclusion and Usability in a Typological and Multilingual Knowledge Base"
 collection: talks
-type: "contributed_talk"
+type: "Contributed Talk"
 permalink: /talks/01-25-coling.md
 venue: "International Conference on Computational Linguistics (COLING) 2025"
 date: 2025-01-24

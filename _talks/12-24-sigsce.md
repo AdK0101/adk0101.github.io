@@ -1,7 +1,7 @@
 ---
 title: "A Faculty Initiative Addressing Gender Disparity at a Small STEM-Focused University: A Case Study"
 collection: talks
-type: "contributed_talk"
+type: "Contributed Talk"
 permalink: /talks/12-24-sigsce.md
 venue: "ACM Virtual Global Computing Education Conference (SIGSCE Virtual) 2024"
 date: 2024-12-07
