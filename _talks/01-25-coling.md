@@ -8,4 +8,4 @@ date: 2025-01-24
 location: "Abu Dhabi, UAE"
 ---
 
-There is an associated conference paper (check out my publications). 
+There is an associated conference paper (check out my publications). A recorded version of the talk that I did for the Lee Language Lab (with whom I wrote this paper) can be found [here](https://www.youtube.com/watch?v=teqLE4P0AiI). 
