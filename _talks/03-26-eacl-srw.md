@@ -1,5 +1,5 @@
 ---
-title: "Modality Matching Matters: Calibrating Language Distances for Cross-Lingual Transfer in URIEL++"
+title: "Modality Matching Matters: Calibrating Language Distances for Cross-Lingual Transfer in URIEL+"
 collection: talks
 type: "Contributed Talk"
 permalink: /talks/03-26-eacl-srw/

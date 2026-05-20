@@ -134,7 +134,14 @@ a {
 }
 
 .sidebar {
+  .author__avatar {
+    padding: 4px;
+  }
+
   .author__avatar img {
+    display: block;
+    box-sizing: border-box;
+    max-width: calc(175px - 8px);
     border: 3px solid var(--global-surface-color);
     box-shadow: 0 0 0 2px var(--global-accent-color), $box-shadow;
   }
