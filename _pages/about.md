@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey all! I'm Aditya Khan (আদিত্য খান), a graduating honours bachelors student (data science, statistics, computer science) at the University of Toronto, and currenly a ML Research Intern at the Vector Institute. I will be joining Columbia University this fall as a Ph.D. student in Statistics! 
+Hey all! I'm Aditya Khan, a graduating honours bachelors student (data science, statistics, computer science) at the University of Toronto, and currenly a ML Research Intern at the Vector Institute. I will be joining Columbia University this fall as a Ph.D. student in Statistics! 
 
 People always ask: "what are your research interests?" I always end up giving one of two answers, depending on who asks:
 1. To someone in statistics, or a potential employer/supervisor: On the theoretical side, I study methods for nonparametric uncertainty quantification. On the applied side, I enjoy working with correlated data (namely, spatiotemporal data) with application to transportation and healthcare.
