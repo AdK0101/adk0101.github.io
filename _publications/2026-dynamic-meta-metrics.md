@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Meta-Metrics: Source-Sentence Conditioned Weighting for MT Evaluation"
 collection: publications
-category: conferences
+category: workshops
 permalink: /publication/2026-dynamic-meta-metrics
 excerpt: 'Dynamic Meta-Metrics learns source-sentence conditioned combinations of existing machine translation metrics. Instead of using one static ensemble of metric weights, the framework adapts metric weighting based on source-segment properties and evaluates these combinations across WMT Metrics Shared Task data.'
 date: 2026-07-05

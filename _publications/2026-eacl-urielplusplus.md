@@ -1,7 +1,7 @@
 ---
 title: "Modality Matching Matters: Calibrating Language Distances for Cross-Lingual Transfer in URIEL+"
 collection: publications
-category: conferences
+category: workshops
 permalink: /publication/2026-eacl-urielplusplus
 excerpt: 'This paper introduces modality-specific language distance representations for cross-lingual transfer, including speaker-weighted geography, hyperbolic genealogy, and latent-variable typology. It combines these signals into a composite distance that improves transfer-language selection across multiple benchmarks.'
 date: 2026-03-26
