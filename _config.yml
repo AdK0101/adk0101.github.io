@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Aditya Khan"
 title_separator          : "-"
 name                     : &name "Aditya Khan"
-description              : &description "Honours Bachelors Student in Data Science, Statistics, and Computer Science at the University of Toronto."
+description              : &description "PhD Student in Statistics at Columbia University"
 url                      : https://adk0101.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AdK0101/adk0101.github.io"
@@ -25,11 +25,11 @@ author:
   avatar           : "CS112_IMG_8097.JPG"
   name             : "Aditya Khan"
   pronouns         : # example: "she/her"  
-  bio              : "Honours Bachelors Student in Data Science, Statistics, and Computer Science at the University of Toronto."
-  location         : "Toronto, Ontario, Canada"
-  employer         : "University of Toronto"
+  bio              : "PhD Student in Statistics at Columbia University"
+  location         : "New York, USA"
+  employer         : "Columbia University"
   uri              : # URL
-  email            : "adityakhan@cs.toronto.edu" 
+  email            : "aditya.khan@columbia.edu"
 
   # Academic websites
   academia         : # URL
