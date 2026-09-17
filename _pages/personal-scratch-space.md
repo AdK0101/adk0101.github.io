@@ -30,7 +30,7 @@ Never, ever, wait for people to offer things for you. In life, the only person y
 
 Let me give an example. Many people in undergraduate asked me how I published so much, and how I managed to work with so many professors. It's because behind the scenes, I never waited for structured research awards like most people do. At every moment, I emailed profs, talked to them, networked, and yes, applied to awards. From most things, I got rejected. I've been embarrassed. You know, the usual. But you know, if you try enough, you'll get something. And my record, as young as it is, is proof of that. When people say school is hard, and it's hard to get opportunities... my response is always a question: how hard have you tried, and how *effectively* have you worked?
 
-Also, never ever forget to take a break when you need one. You're a human. Human's aren't machines. So be human. 
+Also, never ever forget to take a break when you need one. You're a human. Humans aren't machines. So be human. 
 
 Finally, smile! Crack a joke. Make others happy. Life is short. So have fun!
 
